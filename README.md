@@ -246,8 +246,7 @@ AI classification over transmission line data, combining signal processing with 
 **Software Development Intern** · The Developer Arena
 <sub>Built Python modules and debugging workflows, and shipped solutions for real production programming problems.</sub>
 
-**🎯 &nbsp;Industry Job Simulations**
-
+🎯 &nbsp;Industry Job Simulations**
 <sub>
 ▸ AWS — Solutions Architecture · <i>Cloud for Smart Infrastructure</i><br/>
 ▸ J.P. Morgan — Software Engineering · <i>Industrial Use Cases</i><br/>
@@ -259,8 +258,7 @@ AI classification over transmission line data, combining signal processing with 
 </td>
 <td width="50%" valign="top">
 
-**⚡ &nbsp;Hackathons & Programs**
-
+⚡ &nbsp;Hackathons & Programs**
 <sub>
 ▸ ISRO Bharatiya Antariksh Hackathon 2025<br/>
 ▸ Google Cloud — Agentic AI Day 2025<br/>
@@ -269,8 +267,8 @@ AI classification over transmission line data, combining signal processing with 
 ▸ IIT Delhi BECon'25 — Supply Chain Workshop
 </sub>
 
-**🎖️ &nbsp;Leadership**
 
+🎖️ &nbsp;Leadership**
 <sub>
 ▸ Vice Chairman — IEEE Power & Energy Society, FoT DU<br/>
 ▸ Technical Head — Spandan Cultural Fest, DU<br/>
