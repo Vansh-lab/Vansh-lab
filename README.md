@@ -7,17 +7,15 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/vansh-sachan">
+<a href="https://www.linkedin.com/in/vansh-sachan-92376519b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 </a>
-<a href="mailto:sachanyvansh@ee.du.ac.in">
+<a href="mailto:sachanvansh@ee.du.ac.in">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" height="30"/>
 </a>
-<a href="https://github.com/Vansh-lab?tab=repositories">
+<a href="https://github.com/Vansh-lab">
   <img src="https://img.shields.io/badge/Projects-0F172A?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Vansh-lab&label=VISITORS&color=38bdf8&style=for-the-badge" height="30"/>
-
+</a>  
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_New_Delhi,_India-0F172A?style=flat-square&labelColor=0F172A&color=1E293B"/>
