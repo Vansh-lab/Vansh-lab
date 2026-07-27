@@ -191,16 +191,17 @@ AI classification over transmission line data, combining signal processing with 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=3" width="100%"/>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## 📊 &nbsp;Contribution Analytics
+<sub><b>🐍 CONTRIBUTION SNAKE</b></sub>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake.svg" width="96%"/>
+</picture>
 
-<img src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/main/github-metrics-isocalendar.svg" width="92%" alt="isometric commit calendar"/>
+</div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/main/github-metrics.svg" width="92%" alt="github metrics"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=3" width="100%"/>
 
 <br/><br/>
 
@@ -216,19 +217,6 @@ AI classification over transmission line data, combining signal processing with 
 <img src="https://github-profile-trophy.vercel.app/?username=Vansh-lab&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="94%"/>
 
 <br/>
-
-<sub><b>🐍 CONTRIBUTION SNAKE</b></sub>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/output/github-snake.svg" width="96%"/>
-</picture>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:38BDF8,100:0F172A&height=3" width="100%"/>
-
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
 ## 🏆 &nbsp;Experience & Recognition
 
@@ -320,3 +308,14 @@ AI for Energy Systems · Predictive Maintenance · Backend & ML Engineering
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,55:1E3A8A,100:0F172A&height=140&section=footer" width="100%"/>
 
 </div>
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 &nbsp;Contribution Analytics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/main/github-metrics-isocalendar.svg" width="92%" alt="isometric commit calendar"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Vansh-lab/Vansh-lab/main/github-metrics.svg" width="92%" alt="github metrics"/>
+
