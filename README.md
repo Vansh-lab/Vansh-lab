@@ -224,18 +224,19 @@ AI classification over transmission line data, combining signal processing with 
 <tr>
 <td width="50%" valign="top">
 
-**💼 &nbsp;Experience**
+💼 &nbsp;Experience
 
 `2026 · 3-Month Term` &nbsp;<img src="https://img.shields.io/badge/CURRENT-16A34A?style=flat-square&labelColor=0F172A" height="18"/>
-**Transmission Trainee** · Salasar Techno Engineering Ltd.
+Transmission Trainee · Salasar Techno Engineering Ltd.
 <sub>Working on transmission line and substation project delivery for a national EPC portfolio, and building **TPIOS** — the in-house platform that turns field and finance workbooks into a single verified view of project progress, cost and risk.</sub>
 
 `Nov 2025 — Jan 2026`
-**Software Development Intern** · The Developer Arena
+Software Development Intern · The Developer Arena
 <sub>Built Python modules and debugging workflows, and shipped solutions for real production programming problems.</sub>
 
-🎯 &nbsp;Industry Job Simulations**
+🎯 &nbsp;Industry Job Simulations
 <sub>
+
 ▸ AWS — Solutions Architecture · <i>Cloud for Smart Infrastructure</i><br/>
 ▸ J.P. Morgan — Software Engineering · <i>Industrial Use Cases</i><br/>
 ▸ Tata — Data Visualisation · <i>Energy & Operations</i><br/>
@@ -246,8 +247,9 @@ AI classification over transmission line data, combining signal processing with 
 </td>
 <td width="50%" valign="top">
 
-⚡ &nbsp;Hackathons & Programs**
+⚡ &nbsp;Hackathons & Programs
 <sub>
+
 ▸ ISRO Bharatiya Antariksh Hackathon 2025<br/>
 ▸ Google Cloud — Agentic AI Day 2025<br/>
 ▸ AI for Quality Hackathon — IFQM Conclave 2025<br/>
@@ -256,8 +258,9 @@ AI classification over transmission line data, combining signal processing with 
 </sub>
 
 
-🎖️ &nbsp;Leadership**
+🎖️ &nbsp;Leadership
 <sub>
+
 ▸ Vice Chairman — IEEE Power & Energy Society, FoT DU<br/>
 ▸ Technical Head — Spandan Cultural Fest, DU<br/>
 ▸ Player & Manager — DU Football Team<br/>
